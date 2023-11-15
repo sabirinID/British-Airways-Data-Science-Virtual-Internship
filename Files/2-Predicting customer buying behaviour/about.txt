@@ -1,0 +1,12 @@
+Task Two: Predicting customer buying behaviour
+Build a predictive model to understand factors that influence buying behaviour
+
+# What you'll learn
+	How using data and predictive models helps British Airways acquire customers before they embark on their holidays
+
+# What you'll do
+	Prepare a dataset
+	Train a machine learning model
+	Evaluate and present your findings
+
+# 
