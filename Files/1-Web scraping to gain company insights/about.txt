@@ -53,4 +53,13 @@ This first task is focused on scraping and collecting customer feedback and revi
 
 # Upload your PowerPoint summary
 
-# 
+# Submission complete, great work!
+
+# Example Answer
+Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
+
+	Task 1 Example Answer
+	https://cdn.theforage.com/vinternships/companyassets/tMjbs76F526fF5v3G/L3MQ8f6cYSkfoukmz/1692891971040/Task%201%20-%20Example%20Answer.pdf
+
+# Nice work!
+You just completed Task 1 of the Data Science Job Simulation
